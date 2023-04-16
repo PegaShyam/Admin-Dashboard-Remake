@@ -283,6 +283,7 @@ body{
     font-size: 25px;
     font-weight: 600;
     box-shadow: 0 7px 25px rgb(167, 167, 167);
+    cursor: pointer;
 }
 
 .card-image{
